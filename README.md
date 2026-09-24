@@ -4,3 +4,5 @@ This project is a cybersecurity learning initiative that demonstrates a social e
 The demonstration also includes changing the desktop wallpaper and displaying a ransom-demand pop-up to simulate the impact of a ransomware attack.
 Additionally, the project explores the recovery process, demonstrating how to reverse the effects of the simulated attack and restore the encrypted files.
 
+The code is designed to read the files in bianry and then encrypt its binary. This way, it was possible to read and encrypt all the file formats.
+Because the encryption is done on the binary of the file, running the encryption code twice without decryption in between may disturb the file and the data maybe lsot forever.
